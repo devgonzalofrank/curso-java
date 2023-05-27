@@ -15,6 +15,8 @@ public class Ejercicio4 {
         float prom = ((alt1 + alt2 + alt3)/3);
 
         System.out.println("El promedio de las 3 alturas es: " + prom);
+
+        s.close();
     }
 
 }
