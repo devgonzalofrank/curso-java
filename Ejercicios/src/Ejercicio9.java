@@ -22,6 +22,6 @@ public class Ejercicio9 {
         s.close();
 
         System.out.println("Valor en pesos: " + pesos + "\n Valor en dolares: " + dolar + "\n Valor en euros: " + euro + "\n Valor en guarani: " + guarani + "\n Valor en reales: " + real);
-        
+        System.out.printf("%.01f", real);
     }
 }
