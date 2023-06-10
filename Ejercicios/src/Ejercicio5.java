@@ -17,7 +17,7 @@ public class Ejercicio5 {
 
         float area = (float) ((Math.PI * (Math.pow(radio, 2))));
         float per = (float) (2 * (Math.PI) * radio);
-        System.out.println("El area de la circunferencia es: " + area + " centrimetros, y el perimetro es: " + per + "centimetros");
+        System.out.println("El area de la circunferencia es: " + area + " centimetros, y el perimetro es: " + per + "centimetros");
         s.close();
     }
 
